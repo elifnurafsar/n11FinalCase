@@ -1,3 +1,6 @@
 [submodule "n11FinalCaseUserApp"]
 	path = n11FinalCaseUserApp
 	url = https://github.com/elifnurafsar/n11FinalCaseUserApp.git
+[submodule "n11FinalCaseRestaurantApp"]
+	path = n11FinalCaseRestaurantApp
+	url = https://github.com/elifnurafsar/n11FinalCaseRestaurantApp.git
