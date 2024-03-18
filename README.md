@@ -1,3 +1,7 @@
+
+> [!IMPORTANT]  
+> Proje dosyalarının son commit'i 17 Martta yapılmasının ardından repository public'e alındığında README içerisindeki görsellerin benim dışımdaki diğer kullanıcılara gözükmediği tespit edilmiştir. Yapılan uyarı ardından sadece README dosyası güncellenip görseller tekrar yüklenerek son commit 18 Martta atılmıştır. Bu committe proje dosyalarında herhangi bir değişim olmamıştır. README'nin önceki sürümünde görsellerin 17 Mart tarihinde benim kullanıcım tarafından sorunsuz bir şekilde görüntülenebildiği projemin sunum videosunda gösterilmiştir.
+
 # Restaurant Review App
 
 RestaurantApp is a sophisticated web application designed to provide users with a seamless experience for discovering, reviewing, and exploring restaurants. 
@@ -8,8 +12,8 @@ With its intuitive interface and comprehensive features, RestaurantApp aims to r
 
 # Schema
 
-![schema](https://github.com/elifnurafsar/xxx/assets/60623941/2c72ed0c-bce2-4b27-b1c0-724c91b20320)
+![schema](https://github.com/elifnurafsar/n11FinalCase/assets/60623941/8b789526-1d60-4831-a1a7-2b5288ef64f9)
 
 
 > [!NOTE]  
-> Her Bir Servisin Readme dosyaları kendi içerisindedir.
+> Her Bir Servisin README dosyaları kendi repository'sinin içerisindedir.
